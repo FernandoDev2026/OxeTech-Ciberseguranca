@@ -29,7 +29,20 @@ Conteúdos:
 
 ### 02 — 🔑 Autenticação e Controle de Acesso
 
-Em desenvolvimento.
+Laboratório prático sobre autenticação, autenticação multifator e controle de acesso seguro.
+
+**Conteúdos:**
+
+- Autenticação (AuthN) × autorização (AuthZ)
+- Armazenamento seguro de senhas com salt e PBKDF2
+- Limite de tentativas e bloqueio temporário
+- MFA/TOTP
+- Sessões e tokens JWT
+- Controle de acesso por papéis (RBAC), propriedade de recursos e simulação de IDOR
+- Projeto integrado SecureAccess e análise de logs
+
+➡️ 🔗 **[Acessar o AuthLab](./02-autenticacao/)**
+
 
 ---
 
