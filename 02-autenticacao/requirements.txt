@@ -1,0 +1,5 @@
+pyotp==2.9.0
+PyJWT==2.10.1
+
+# Opcional, somente se GERAR_QR = True no notebook:
+# qrcode[pil]==8.2
